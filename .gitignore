@@ -151,7 +151,6 @@ dist
 
 # Built Visual Studio Code Extensions
 *.vsix
-*
 !.gitignore
 !ML-Stuff
 !DB-Scripts
